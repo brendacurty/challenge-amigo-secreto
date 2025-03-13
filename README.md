@@ -26,8 +26,11 @@ O desafio proposto para este projeto era a criação de um jogo de amigo secreto
 
 ## ⚒️ Como Usar
 
-
-
+(https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/campoembranco.png)
+(https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/nomerepetido.png)
+(https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/Sortearmaisnome.png)
+(https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/listadenomes.png)
+(https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/sorteado.png)
 ---
 
 ## 🌐 Tecnologias
