@@ -2,8 +2,8 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-como-usar">Como usar</a> • 
+<a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-como-executar-o-projeto">Como usar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autora">Autora</a> • 
 </p>
