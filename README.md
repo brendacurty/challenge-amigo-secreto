@@ -26,11 +26,36 @@ O desafio proposto para este projeto era a criação de um jogo de amigo secreto
 
 ## ⚒️ Como Usar
 
-(https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/campoembranco.png)
-(https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/nomerepetido.png)
-(https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/Sortearmaisnome.png)
-(https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/listadenomes.png)
-(https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/sorteado.png)
+**Adicionar amigos:**
+
+![Adicionar nome válido](https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/campoembranco.png)
+
+<figcaption style="text-align: center; font-style: italic; margin-top: 5px;"> Digite um nome no campo de entrada e clique em "Adicionar". O nome será adicionado à lista, desde que seja válido. Caso o campo esteja em branco ou tenha apenas números, aparecerar uma mensagem
+ 
+--- 
+ 
+ ![Nome repetido](https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/nomerepetido.png)
+<figcaption style="text-align: center; font-style: italic; margin-top: 5px;"> Ao adicionar um nome duplicado aparecerar uma mensagem informando que o nome já foi adicionado
+
+ ---
+ 
+**Lista de nomes:**
+
+![lista de nomes](https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/listadenomes.png)
+ <figcaption style="text-align: center; font-style: italic; margin-top: 5px;"> Todos nomes inseridos aparecerão em uma lista abaixo do campo de entrada
+
+---
+
+**Sortear amigo:**
+
+![Sortear mais de um nome](https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/Sortearmaisnome.png)
+ <figcaption style="text-align: center; font-style: italic; margin-top: 5px;"> É necessário mais de 1 nome para sortear
+
+---
+
+![Amigo sorteado](https://github.com/brendacurty/challenge-amigo-secreto/blob/main/_assents/sorteado.png)
+ <figcaption style="text-align: center; font-style: italic; margin-top: 5px;"> Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página
+  
 ---
 
 ## 🌐 Tecnologias
