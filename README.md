@@ -3,7 +3,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
 <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-como-usar">Como executar</a> • 
+ <a href="#-como-executar">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autora">Autora</a> • 
 </p>
@@ -24,7 +24,7 @@ O desafio proposto para este projeto era a criação de um jogo de amigo secreto
 
 ---
 
-## 🚀 Como executar o projeto
+## 🚀 Como executar
 
 **Adicionar amigos:**
 
